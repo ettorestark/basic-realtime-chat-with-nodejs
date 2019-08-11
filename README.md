@@ -1,4 +1,4 @@
-# Realtime chat using Socket.IO and NodeJS
+# Realtime chat using Socket.io and NodeJS
 
 ## Run the project 🚀
 
@@ -10,11 +10,12 @@ npm start
 ## Screenshots
 
 ### Typing a message
+![typing a message](https://github.com/ettorestark/basic-realtime-chat-with-nodejs/blob/master/assets/Typing.jpg)
 
 
 
-### Sent message
+### Sent 
+![sent](https://github.com/ettorestark/basic-realtime-chat-with-nodejs/blob/master/assets/mesages%20sent.jpg)
 
-
-Made with ❤ by Ettore Stark
+Made with ❤ by [Ettore Stark](https://github.com/ettorestark)
 
